@@ -1,0 +1,2 @@
+sender_pass = ""
+senderEmail = ""
